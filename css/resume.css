@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: rgb(72, 99, 109);
+  background-color: #48636d;
 }
 
 .dev-icons {
@@ -80,7 +80,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #rgb(72, 99, 109);
+  color: #48636d);
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
